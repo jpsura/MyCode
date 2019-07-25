@@ -1,4 +1,9 @@
 #!usr/bin/env python3
+"""
+Sura Script
+creating directories
+"""
+
 ##The following will create a DIR and add files that do not already exist
 import shutil
 import os
